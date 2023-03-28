@@ -1,18 +1,18 @@
 [
     {
-        key: "学院名称",
-        content: "管理学院"
+        "key": "院系",
+        "content": "信息管理系"
     },
     {
-        key: "学号",
-        content: "20201101"
+        "key": "学号",
+        "content": "2100016628"
     },
     {
-        key: "姓名",
-        content: "张三"
+        "key": "姓名",
+        "content": "张天行"
     },
     {
-        key: "专业",
-        content: "市场营销"
+        "key": "专业",
+        "content": "市场营销"
     }
 ]
